@@ -1,5 +1,9 @@
 Version=127
 Patch=2
 Updater=02
+%UPDATE%
 test1
 test2
+%PATCHNOTES%
+patch1
+patch2
