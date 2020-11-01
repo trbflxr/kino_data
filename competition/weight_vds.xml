@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regulation>
+  <maxWeight value="2000"/>
+  <weights>
+    <weight width="225" min="1000"/>
+    <weight width="235" min="1050"/>
+    <weight width="245" min="1100"/>
+    <weight width="255" min="1150"/>
+    <weight width="265" min="1200"/>
+    <weight width="285" min="1400"/>
+    <weight width="325" min="1600"/>
+  </weights>
+</regulation>
