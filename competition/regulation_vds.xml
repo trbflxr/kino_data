@@ -3,72 +3,72 @@
   <grip front="1.0" rear="1.0"/>
   <allowedSetup name="Ultimate"/>
   <cars>
-    <car name="vaz2107" id="34" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="1"/>
-    <car name="ae86coupe" id="78" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="41"/>
-    <car name="ae86" id="3" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="celica" id="79" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="m3e30" id="7" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="mx5_90" id="53" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="mx5" id="29" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="-2"/>
-    <car name="altezza" id="38" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="volvo" id="22" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="laurel" id="49" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="180sx" id="19" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="m3e36" id="40" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="vaz2102" id="60" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="190evo2" id="63" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="rx8" id="68" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="r33" id="6" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="charger" id="5" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="240z" id="46" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="jeep_str8" id="43" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="rx7fc" id="42" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="truck" id="73" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="soarer" id="58" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="van" id="57" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="33"/>
-    <car name="r34" id="1" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="s13" id="9" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="camarro" id="12" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="350z" id="15" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="-24"/>
-    <car name="evo9" id="27" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="subaru_coupe" id="26" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="m3e46" id="25" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="maloo" id="24" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="chaser_jzx100" id="16" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="subaru_hatch" id="62" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="rx7fd" id="8" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="skyline2000" id="69" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="m3e92" id="39" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="evo10" id="54" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="gt86" id="20" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="commodore" id="21" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="bmw_m2" id="48" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="r32" id="47" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="corvette_c6" id="74" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="-155"/>
-    <car name="m5e34" id="76" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="clk63" id="77" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="s14" id="36" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="mark2_jzx90" id="35" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="challenger" id="33" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="datsun620" id="56" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="mark2_jzx100" id="72" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="ford_falcon" id="71" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="-95"/>
-    <car name="corolla" id="70" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="mustang_rtr" id="75" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="flanker" id="67" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="m4" id="32" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="supra_a80" id="10" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="hooni_truck" id="61" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="lfa" id="59" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="s15" id="13" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="hoonigan" id="18" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="m5e60" id="51" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="viper" id="23" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="e63_police" id="44" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="r8" id="39" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="r35" id="28" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="mustang350" id="30" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
-    <car name="corvette_c7" id="64" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000" maxTorque="-18"/>
-    <car name="370z" id="80" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" weight="800-3000"/>
+    <car name="vaz2107" id="34" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="1"/>
+    <car name="ae86coupe" id="78" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="41"/>
+    <car name="ae86" id="3" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="celica" id="79" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m3e30" id="7" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="mx5_90" id="53" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="mx5" id="29" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="-2"/>
+    <car name="altezza" id="38" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="volvo" id="22" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="laurel" id="49" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="180sx" id="19" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m3e36" id="40" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="vaz2102" id="60" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="190evo2" id="63" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="rx8" id="68" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="r33" id="6" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="charger" id="5" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="240z" id="46" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="jeep_str8" id="43" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="rx7fc" id="42" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="truck" id="73" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="soarer" id="58" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="van" id="57" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="33"/>
+    <car name="r34" id="1" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="s13" id="9" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="camarro" id="12" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="350z" id="15" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="-24"/>
+    <car name="evo9" id="27" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="subaru_coupe" id="26" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m3e46" id="25" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="maloo" id="24" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="chaser_jzx100" id="16" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="subaru_hatch" id="62" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="rx7fd" id="8" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="skyline2000" id="69" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m3e92" id="39" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="evo10" id="54" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="gt86" id="20" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="commodore" id="21" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="bmw_m2" id="48" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="r32" id="47" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="corvette_c6" id="74" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="-155"/>
+    <car name="m5e34" id="76" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="clk63" id="77" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="s14" id="36" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="mark2_jzx90" id="35" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="challenger" id="33" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="datsun620" id="56" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="mark2_jzx100" id="72" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="ford_falcon" id="71" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="-95"/>
+    <car name="corolla" id="70" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="mustang_rtr" id="75" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="flanker" id="67" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m4" id="32" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="supra_a80" id="10" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="hooni_truck" id="61" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="lfa" id="59" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="s15" id="13" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="hoonigan" id="18" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m5e60" id="51" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="viper" id="23" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="e63_police" id="44" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="r8" id="39" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="r35" id="28" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="mustang350" id="30" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="corvette_c7" id="64" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20" maxTorque="-18"/>
+    <car name="370z" id="80" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
   </cars>
 </regulation>
