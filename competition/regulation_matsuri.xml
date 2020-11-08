@@ -12,7 +12,7 @@
     <car name="r34" id="1" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="s13" id="9" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="m3e46" id="25" wwidthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="m3e92" id="39" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="19" diamRear="19">
+    <car name="m3e92" id="39" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="gt86" id="20" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="bmw_m2" id="48" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="r32" id="47" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
