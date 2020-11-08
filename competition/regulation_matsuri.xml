@@ -24,7 +24,7 @@
     <car name="corolla" id="70" widthFront="245" widthRear="245" profileFront="00" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="mustang_rtr" id="75" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="flanker" id="67" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="m4" id="32" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20">
+    <car name="m4" id="32" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="supra_a80" id="10" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="lfa" id="59" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="s15" id="13" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
