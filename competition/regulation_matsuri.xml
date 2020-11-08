@@ -6,7 +6,7 @@
     <car name="vaz2107" id="34" widthFront="235" widthRear="235" profileFront="30" profileRear="30" diamFront="18" diamRear="18" maxTorque="1"/>
     <car name="altezza" id="38" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="laurel" id="49" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="180sx" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="180sx" id="19" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="rx8" id="68" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="soarer" id="58" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="r34" id="1" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
