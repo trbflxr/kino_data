@@ -32,10 +32,10 @@
     <car name="r35" id="28" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="corvette_c7" id="64"  widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19" maxTorque="-18"/>
     <car name="370z" id="80" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-	<car name="subaru_hatch" id="62" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-	<car name="challenger" id="33" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
-	<car name="hoonigan" id="18" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-	<car name="rx7fd" id="8" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-	<car name="mustang350" id="30" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
+    <car name="subaru_hatch" id="62" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="challenger" id="33" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
+    <car name="hoonigan" id="18" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="rx7fd" id="8" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="mustang350" id="30" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
   </cars>
 </regulation>
