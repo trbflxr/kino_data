@@ -17,7 +17,7 @@
     <car name="bmw_m2" id="48" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="r32" id="47" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="corvette_c6" id="74" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19" maxTorque="-155"/>
-    <car name="m5e34" id="76" widthFront="325" widthRear="325" profileFront="35" profileRear="35" diamFront="20" diamRear="20"/>
+    <car name="m5e34" id="76" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="s14" id="36" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="mark2_jzx90" id="35" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="mark2_jzx100" id="72" widthFront="245" widthRear="245" profileFront="00" profileRear="30" diamFront="19" diamRear="19"/>
