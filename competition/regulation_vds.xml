@@ -22,7 +22,7 @@
     <car name="charger" id="5" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="240z" id="46" widthFront="325" widthRear="325" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="jeep_str8" id="43" widthFront="325" widthRear="325" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
-    <car name="rx7fc" id="42" widthFront="225" widthRear="225" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="rx7fc" id="42" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="truck" id="73" widthFront="325" widthRear="325" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="soarer" id="58" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="van" id="57" widthFront="325" widthRear="325" profileFront="30" profileRear="30" diamFront="20" diamRear="20" maxTorque="33"/>
