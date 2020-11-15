@@ -54,7 +54,7 @@
     <car name="mark2_jzx100" id="72" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="ford_falcon" id="71" widthFront="325" widthRear="325" profileFront="30" profileRear="30" diamFront="20" diamRear="20" maxTorque="-95"/>
     <car name="corolla" id="70" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="mustang_rtr" id="75" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
+    <car name="mustang_rtr" id="75" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="flanker" id="67" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="m4" id="32" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="supra_a80" id="10" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
@@ -67,7 +67,7 @@
     <car name="e63_police" id="44" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="r8" id="39" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="r35" id="28" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="mustang350" id="30" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="mustang350" id="30" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="corvette_c7" id="64" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19" maxTorque="-18"/>
     <car name="370z" id="80" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
   </cars>
