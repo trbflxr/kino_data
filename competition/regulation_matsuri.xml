@@ -9,7 +9,7 @@
     <car name="rx8" id="68" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="r34" id="1" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="s13" id="9" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="m3e92" id="39" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
+    <car name="m3e92" id="31" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="corvette_c6" id="74" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19" maxTorque="-155"/>
     <car name="m5e34" id="76" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="mark2_jzx100" id="72" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
