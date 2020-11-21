@@ -38,7 +38,7 @@
     <car name="subaru_hatch" id="62" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="rx7fd" id="8" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="skyline2000" id="69" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="m3e92" id="39" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
+    <car name="m3e92" id="31" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="20" diamRear="20"/>
     <car name="evo10" id="54" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="gt86" id="20" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
     <car name="commodore" id="21" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
