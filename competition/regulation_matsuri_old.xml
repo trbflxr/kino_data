@@ -3,32 +3,9 @@
   <grip front="1.0" rear="1.0"/>
   <allowedSetup name="Ultimate"/>
   <cars>
-    <car name="altezza" id="38" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="laurel" id="49" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="180sx" id="19" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="rx8" id="68" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="r34" id="1" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="s13" id="9" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="m3e92" id="31" widthFront="285" widthRear="285" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="corvette_c6" id="74" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19" maxTorque="-155"/>
-    <car name="m5e34" id="76" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="mark2_jzx100" id="72" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="corolla" id="70" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="flanker" id="67" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="supra_a80" id="10" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="lfa" id="59" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="s15" id="13" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="corvette_c7" id="64"  widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19" maxTorque="-18"/>
-    <car name="370z" id="80" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="rx7fd" id="8" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="r33" id="6" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="rx7fc" id="42" widthFront="245" widthRear="245" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="350z" id="15" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="chaser" id="16" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="bmw_m2" id="48" widthFront="265" widthRear="265" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="datsun620" id="56" widthFront="235" widthRear="235" profileFront="30" profileRear="30" diamFront="18" diamRear="18"/>
-    <car name="mustang_rtx" id="75" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="s14" id="36" widthFront="255" widthRear="255" profileFront="30" profileRear="30" diamFront="19" diamRear="19"/>
-    <car name="vaz2107" id="34" widthFront="235" widthRear="235" profileFront="30" profileRear="30" diamFront="18" diamRear="18" maxTorque="1"/>
+    <car name="vaz2107" id="34" widthFront="185" widthRear="185" profileFront="55" profileRear="55" diamFront="15" diamRear="15" maxTorque="1"/>
+    <car name="vaz2102" id="60" widthFront="185" widthRear="185" profileFront="55" profileRear="55" diamFront="15" diamRear="15"/>
+    <car name="ae86coupe" id="78" widthFront="185" widthRear="185" profileFront="55" profileRear="55" diamFront="15" diamRear="15" maxTorque="41"/>
+    <car name="ae86" id="3" widthFront="185" widthRear="185" profileFront="55" profileRear="55" diamFront="15" diamRear="15"/>
   </cars>
 </regulation>
